@@ -1,25 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
-// Tipo de datos para la variable de estados
-typedef enum{
-    PANTALLA_INICIAL,
-    PANTALLA_1,
-    PANTALLA_2,
-    PANTALLA_3,
-	PANTALLA_4,
-	PANTALLA_5,
-	PANTALLA_6
-} pantalla_t;
-
-// Variable de estado (global)
-pantalla_t pantallaActual;
-
-uint8_t opcion = 0;
-
-// Prototipos de funciones
-void IniciarMenu(void );
-void ActualizarMenu(void);
+#include "../inc/menu.h"
 
 void mostrarPantallaInicial (void);
 void mostrarPantalla1 (void);
@@ -29,18 +11,9 @@ void mostrarPantalla4 (void);
 void mostrarPantalla5 (void);
 void mostrarPantalla6 (void);
 
-// Programa principal
-int main (void){
-	
-	IniciarMenu();
-	
-	while(1){
-		
-		ActualizarMenu();
-		
-	}
-	return 0;
-}
+pantalla_t pantallaActual;
+
+uint8_t opcion = 0;
 
 // Función Inicializar MEF
 void IniciarMenu(void){

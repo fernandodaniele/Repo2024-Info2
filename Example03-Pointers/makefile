@@ -11,13 +11,13 @@ TARGET = application
 
 .PHONY: all clean
 
-all: $(BINDIR)/$(TARGET)
+all: $(TARGET)
 
-$(BINDIR)/$(TARGET): $(OBJS)
+$(TARGET): $(OBJS)
 	$(CC) $(CFLAGS) $^ -o $@
 
 $(BINDIR)/%.o: $(SRCDIR)/%.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	rm -f $(BINDIR)/*.o $(BINDIR)/$(TARGET)
+	rm -f $(BINDIR)/*.o $(TARGET)
