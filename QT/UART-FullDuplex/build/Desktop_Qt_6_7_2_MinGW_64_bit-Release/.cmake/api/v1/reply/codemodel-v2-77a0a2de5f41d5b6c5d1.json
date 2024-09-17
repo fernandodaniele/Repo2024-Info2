@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-56346d6d35524a124713.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "UART-FullDuplex",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "UART-FullDuplex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UART-FullDuplex-Release-33f85833f36d78b6ab98.json",
+					"name" : "UART-FullDuplex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UART-FullDuplex_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UART-FullDuplex_autogen-Release-1641c90ac82b61b9a731.json",
+					"name" : "UART-FullDuplex_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UART-FullDuplex_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UART-FullDuplex_autogen_timestamp_deps-Release-7cd4efa44e0f7fd7a8e2.json",
+					"name" : "UART-FullDuplex_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release",
+		"source" : "C:/Repositorios/QT/UART-FullDuplex"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

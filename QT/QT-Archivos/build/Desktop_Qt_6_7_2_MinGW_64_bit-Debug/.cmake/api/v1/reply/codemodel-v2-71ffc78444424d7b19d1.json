@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-31a10e1f3f8d9109d396.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT-Archivos",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT-Archivos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT-Archivos-Debug-0951e08aeed050247d9c.json",
+					"name" : "QT-Archivos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT-Archivos_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT-Archivos_autogen-Debug-d9214bfc329e9d1b82b8.json",
+					"name" : "QT-Archivos_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT-Archivos_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT-Archivos_autogen_timestamp_deps-Debug-929246d653235c08ee81.json",
+					"name" : "QT-Archivos_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Repositorios/QT/QT-Archivos/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Repositorios/QT/QT-Archivos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

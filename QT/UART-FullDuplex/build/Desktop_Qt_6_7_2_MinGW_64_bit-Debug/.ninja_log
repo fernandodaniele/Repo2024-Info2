@@ -1,0 +1,16 @@
+# ninja log v6
+18	199	7435310315006022	UART-FullDuplex_autogen/timestamp	22a6bd7d62c8f4a2
+714	3246	7435301791383845	CMakeFiles/UART-FullDuplex.dir/main.cpp.obj	f2b2973d258af8fd
+11	629	7435259817712956	build.ninja	609fd58c0ce76852
+18	199	7435310315006022	UART-FullDuplex_autogen/mocs_compilation.cpp	22a6bd7d62c8f4a2
+18	199	7435310315006022	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/UART-FullDuplex_autogen/timestamp	22a6bd7d62c8f4a2
+199	2685	7435310316825941	CMakeFiles/UART-FullDuplex.dir/mainwindow.cpp.obj	185b20b813af96ef
+18	199	7435310315006022	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/UART-FullDuplex_autogen/mocs_compilation.cpp	22a6bd7d62c8f4a2
+711	3105	7435301791353769	CMakeFiles/UART-FullDuplex.dir/UART-FullDuplex_autogen/mocs_compilation.cpp.obj	df873efa9c9778b8
+2685	2955	7435310341683229	UART-FullDuplex.exe	c845a1da045cd9a8
+19	203	7435311182006423	UART-FullDuplex_autogen/timestamp	22a6bd7d62c8f4a2
+19	203	7435311182006423	UART-FullDuplex_autogen/mocs_compilation.cpp	22a6bd7d62c8f4a2
+19	203	7435311182006423	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/UART-FullDuplex_autogen/timestamp	22a6bd7d62c8f4a2
+19	203	7435311182006423	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/UART-FullDuplex_autogen/mocs_compilation.cpp	22a6bd7d62c8f4a2
+204	2765	7435311183878920	CMakeFiles/UART-FullDuplex.dir/mainwindow.cpp.obj	185b20b813af96ef
+2765	3040	7435311209407697	UART-FullDuplex.exe	c845a1da045cd9a8

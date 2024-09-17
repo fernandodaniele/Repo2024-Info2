@@ -1,0 +1,23 @@
+# ninja log v6
+10	942	7435312695301233	UART-FullDuplex_autogen/timestamp	22d453fcafff1476
+10	942	7435312695301233	UART-FullDuplex_autogen/mocs_compilation.cpp	22d453fcafff1476
+10	942	7435312695301233	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/UART-FullDuplex_autogen/timestamp	22d453fcafff1476
+10	942	7435312695301233	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/UART-FullDuplex_autogen/mocs_compilation.cpp	22d453fcafff1476
+949	3110	7435312696471624	CMakeFiles/UART-FullDuplex.dir/UART-FullDuplex_autogen/mocs_compilation.cpp.obj	4254d6b2d1f75f83
+960	3237	7435312696503739	CMakeFiles/UART-FullDuplex.dir/main.cpp.obj	8cebbac83fdaeef4
+971	3667	7435312696702481	CMakeFiles/UART-FullDuplex.dir/mainwindow.cpp.obj	a492d42568f2b8b2
+3667	3887	7435312723658821	UART-FullDuplex.exe	f9eebb03e4deefe8
+32	299	7436323869749928	UART-FullDuplex_autogen/timestamp	22d453fcafff1476
+32	299	7436323869749928	UART-FullDuplex_autogen/mocs_compilation.cpp	22d453fcafff1476
+32	299	7436323869749928	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/UART-FullDuplex_autogen/timestamp	22d453fcafff1476
+32	299	7436323869749928	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/UART-FullDuplex_autogen/mocs_compilation.cpp	22d453fcafff1476
+300	2472	7436323872425896	CMakeFiles/UART-FullDuplex.dir/mainwindow.cpp.obj	a492d42568f2b8b2
+2473	2745	7436323894157706	UART-FullDuplex.exe	f9eebb03e4deefe8
+24	1048	7440871249540315	UART-FullDuplex_autogen/timestamp	22d453fcafff1476
+24	1048	7440871249540315	UART-FullDuplex_autogen/mocs_compilation.cpp	22d453fcafff1476
+24	1048	7440871249540315	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/UART-FullDuplex_autogen/timestamp	22d453fcafff1476
+24	1048	7440871249540315	C:/Repositorios/QT/UART-FullDuplex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/UART-FullDuplex_autogen/mocs_compilation.cpp	22d453fcafff1476
+1049	3292	7440871250552464	CMakeFiles/UART-FullDuplex.dir/UART-FullDuplex_autogen/mocs_compilation.cpp.obj	4254d6b2d1f75f83
+1059	3464	7440871250662463	CMakeFiles/UART-FullDuplex.dir/main.cpp.obj	8cebbac83fdaeef4
+1072	3643	7440871250782645	CMakeFiles/UART-FullDuplex.dir/mainwindow.cpp.obj	a492d42568f2b8b2
+3643	4280	7440871276434957	UART-FullDuplex.exe	f9eebb03e4deefe8

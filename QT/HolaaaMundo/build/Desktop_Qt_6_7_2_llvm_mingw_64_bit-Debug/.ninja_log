@@ -1,0 +1,17 @@
+# ninja log v6
+12	1307	7419045265673367	HolaaaMundo_autogen/timestamp	bbeeca0e139148a
+12	1307	7419045265673367	HolaaaMundo_autogen/mocs_compilation.cpp	bbeeca0e139148a
+12	1307	7419045265673367	C:/Repositorios/QT/HolaaaMundo/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/HolaaaMundo_autogen/timestamp	bbeeca0e139148a
+12	1307	7419045265673367	C:/Repositorios/QT/HolaaaMundo/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/HolaaaMundo_autogen/mocs_compilation.cpp	bbeeca0e139148a
+1323	3354	7419045267086299	CMakeFiles/HolaaaMundo.dir/main.cpp.obj	50d9c06e906f40ad
+1318	3356	7419045267050843	CMakeFiles/HolaaaMundo.dir/HolaaaMundo_autogen/mocs_compilation.cpp.obj	dae59cc9a1ac8e8f
+1327	3385	7419045267086299	CMakeFiles/HolaaaMundo.dir/mainwindow.cpp.obj	9d50a26660c08fb
+3385	3538	7419045287733400	HolaaaMundo.exe	393d3e15f04a94bc
+30	1468	7419060997769133	HolaaaMundo_autogen/timestamp	bbeeca0e139148a
+30	1468	7419060997769133	HolaaaMundo_autogen/mocs_compilation.cpp	bbeeca0e139148a
+30	1468	7419060997769133	C:/Repositorios/QT/HolaaaMundo/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/HolaaaMundo_autogen/timestamp	bbeeca0e139148a
+30	1468	7419060997769133	C:/Repositorios/QT/HolaaaMundo/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/HolaaaMundo_autogen/mocs_compilation.cpp	bbeeca0e139148a
+1470	3813	7419060998964293	CMakeFiles/HolaaaMundo.dir/HolaaaMundo_autogen/mocs_compilation.cpp.obj	dae59cc9a1ac8e8f
+1472	3885	7419060998965005	CMakeFiles/HolaaaMundo.dir/main.cpp.obj	50d9c06e906f40ad
+1475	3975	7419060998965005	CMakeFiles/HolaaaMundo.dir/mainwindow.cpp.obj	9d50a26660c08fb
+3976	4108	7419061024022661	HolaaaMundo.exe	393d3e15f04a94bc

@@ -2,12 +2,12 @@
 #include <Arduino.h>
 
 //======= EXAMPLE SELECTOR =======================
-#define EXAMPLE_ADC   1
+#define EXAMPLE_ADC   0
 #define EXAMPLE_TIME  0
 #define EXAMPLE_LDR   0
 #define EXAMPLE_LM35  0
 #define INTRO_PWM     0
-#define PWM           0
+#define PWM           1
 
 //======= EXAMPLE ADC ===========================
 
@@ -143,9 +143,9 @@ void setup()
 void loop()
 {
   digitalWrite(LED,1);
-  delay(120); //probar con 120  10  1 12 23
+  delay(24); //probar con 120  10  1 12 23
   digitalWrite(LED,0);
-  delay(120); //probar con 120  230  23 12 1 
+  delay(1); //probar con 120  230  23 12 1 
 }
 
 #endif
@@ -155,7 +155,7 @@ void loop()
 
 //================= DEFINES =======================
 #define SENSOR  0
-#define LED     13
+#define LED     11
 
 uint8_t dutyCycle = 127;        //Variable para ciclo de trabajo
 
@@ -167,6 +167,9 @@ analogWrite(LED, dutyCycle);    //Habilita PWM con un duty de aprox 50 %
 
 void loop()                     //En loop no hacemos nada, o hacemos otra cosa
   {
+    analogWrite(LED, dutyCycle);
+    dutyCycle++;
+    delay(10);
   }
 
 #endif
